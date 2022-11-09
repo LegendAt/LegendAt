@@ -1,7 +1,7 @@
 # Hello
 
 I’m Sebastian.
-Im currently starting my Electronics and computertecnology @[**JKU**](https://www.jku.at) in Austria.
+Im currently studying IT @[**JKU**](https://www.jku.at) in Austria.
 
 
 
